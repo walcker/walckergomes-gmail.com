@@ -1,0 +1,7 @@
+from random import randint
+
+def aleatorio():
+  for i in range(1,6):
+   print (randint(1,60))
+  
+aleatorio()
